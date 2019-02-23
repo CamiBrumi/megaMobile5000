@@ -3,6 +3,7 @@
 
 ![megam5000](https://i.imgur.com/xcMZBaD.png)
 
+To run this application, just download the thingy as a .zip file, extract the files, and click/execute the html file!
 ### Increase/decrease the spotlight hit the key:
   'p' to increase
   'P' to decrease (yeah, it is case sensitive)
