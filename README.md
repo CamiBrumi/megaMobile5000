@@ -8,17 +8,17 @@
   'P' to decrease (yeah, it is case sensitive)
 
 ### To move the spotlight in the x and y directions, hit the key:
-  'd' to move the spotlight in the positive X direction
-  'a' to move the spotlight in the negative X direction
-  'w' to move the spotlight in the positive Y direction
-  's' to move the spotlight in the negative Y direction
+  'd' to move the spotlight in the positive X direction <br>
+  'a' to move the spotlight in the negative X direction <br>
+  'w' to move the spotlight in the positive Y direction <br>
+  's' to move the spotlight in the negative Y direction <br>
 
 ### To change the speed of the mobile, please hit the key (it is nicer to keep the key pressed):
-  'r' to increment the speed
+  'r' to increment the speed <br>
   'e' to decrement the speed
 
 ## To change the type of lightning on the cubes, hit (not me, the key):
-  'm' for Gourand lightning
+  'm' for Gourand lightning <br>
   'M' for flat lightning
 
 ## Technical Details about the code
