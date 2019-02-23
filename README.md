@@ -1,6 +1,8 @@
 # Mega Mobile 5000
 ###Camelia Daniela Brumar
 
+![megam5000](https://i.imgur.com/xcMZBaD.png)
+
 ### Increase/decrease the spotlight hit the key:
   'p' to increase
   'P' to decrease (yeah, it is case sensitive)
